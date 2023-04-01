@@ -1,1 +1,1 @@
-It is a wonderful day!
+It is a wonderful day! change on new branch: newProject
